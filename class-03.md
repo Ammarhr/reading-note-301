@@ -1,4 +1,4 @@
-## Read 02:
+## Read 03:
 
 ### Javascript Templating:
  **Javascript templating** is a helpfull technique to obtain the client-side view templates with Javascript by using a JSON data source. The template is HTML markup, by adding templating tags that will either insert variables or run programming logic.
