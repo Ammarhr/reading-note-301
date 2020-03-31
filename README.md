@@ -11,7 +11,7 @@
 |   read 01    | [read01](https://github.com/Ammarhr/reading-notes-301/blob/master/class-01.md)   |
 |   read 02    | [read02](https://github.com/Ammarhr/reading-notes-301/blob/master/class-02.md)   |
 |   read 03    | [read03](https://github.com/Ammarhr/reading-notes-301/blob/master/class-03.md)   |
-|   read 04    | [read04]()   |
+|   read 04    | [read04](https://github.com/Ammarhr/reading-notes-301/blob/master/class-04.md)   |
 |   read 05    | [read05]()   |
 |   read 06    | [read06]()   | 
 |   read 07    | [read07]()   |
